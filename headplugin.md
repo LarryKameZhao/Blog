@@ -8,6 +8,6 @@ Elasticsearch-head插件安装和浏览
 2./elasticsearch重启Easticsearch
 </br>
 
-3.客户端浏览器运行http://ip地址:端口号/_plugin/9100即可启动head界面。
+3.客户端浏览器运行http://ip地址:端口号/_plugin/9100b  ,即可启动head界面。
 
 
