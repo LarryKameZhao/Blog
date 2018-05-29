@@ -1,7 +1,6 @@
 Elasticsearch-head插件安装和浏览
 <br/>
 <br/>
-</br>
 
 1.入Elasticsearch/bin目录，./plugin运行 install mobz/elasticsearch-head
 <br/>
